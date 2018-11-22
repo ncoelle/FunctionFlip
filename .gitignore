@@ -4,3 +4,4 @@ FunctionFlip.xcodeproj/**/*userdata*
 FunctionFlip.xcodeproj/project.xcworkspace
 *.swp
 *~
+.idea/
